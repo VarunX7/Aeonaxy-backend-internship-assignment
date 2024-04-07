@@ -1,5 +1,5 @@
 # Aeonaxy-backend-internship-assignment    
-This is a backend api for an e-commerce web application where you can buy and online courses.    
+This is a backend api for an e-commerce web application where you can buy and sell online courses.       
 Technology used - Nodejs(backend runtime), Express(backend framework), PostgreSQL(Database), Multer and Cloudinary(for image storage), resend(for sending emails), jason web token(for authentication), bcrypt(for hashing password).    
 
 ## Environment variables required -    
